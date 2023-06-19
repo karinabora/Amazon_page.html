@@ -1,0 +1,338 @@
+body{
+margin:0px;
+}
+*{
+ 
+    box-sizing: border-box;
+}
+.top_row1{
+height:60px;
+background-color:#0F1111;
+}
+
+
+.X{
+height:100%;
+width:113px;
+float:left;
+margin-left:10px;
+}
+.Y{
+height:100%;
+width:90px;
+float:left;
+color:white;
+padding:9px;
+
+}
+
+.Z{
+height:100%;
+width:678px;
+float:left;
+margin-left:2px;
+}
+.top_row_col3_div1{
+border:solid 2px black;
+background-color:white;
+height:46px;
+width:140.58px;
+float:left;
+margin-top:4px;
+}
+
+.top_row_col3_div2{
+border:solid 1px black;
+background-color:white;
+height:45px;
+width:479px;
+float:left;
+margin-top:4px;
+}
+.top_row_col3_div3{
+border:solid 1px black;
+background-color:#febd69;
+height:45px;
+width:55px;
+float:left;
+margin-top:4px;
+}
+.search_drop_drown{
+font-family:inherit;
+line-height:1em;
+color:#0f1111;
+position:relative;
+float:left;
+margin:15px;
+width:124px;
+height:35px;
+font-size:14px;
+}
+.serach_dropdown {
+    font-family: inherit;
+    line-height: 1em;
+    color: #0f1111;
+    position: relative;
+    float: left;
+    margin: 15px;
+    width: 124px;
+    height: 35px;
+    font-size: 14px;
+}
+
+
+.Q{
+height:100%;
+width:73.38px;
+float:left;
+margin-left:2px;
+color:white;
+padding:25px;
+}
+
+.K{
+height:100%;
+width:131px;
+float:left;
+margin-left:2px;
+color:white;
+color:white;
+padding:12px;
+}
+.L{
+height:100%;
+width:76px;
+float:left;
+margin-left:2px;
+color:white;
+padding:5px;
+
+}
+.M{
+height:100%;
+width:84px;
+float:left;
+margin-right:10px;
+color:white;
+padding:25px;
+
+}
+
+.top_row2 {
+    background-color: #232F3E;
+    height: 39px;
+    width: 1279px;
+    padding: 8px 9px;
+}
+
+.Y1 {
+height:100%;
+width:58.42px;
+float:left;
+color:white;
+margin-left:10px;
+text-align:center;
+
+}
+
+
+.Z1{
+height:100%;
+width:102.81px;
+float:left;
+color:white;
+margin-left:1px;
+}
+.Q1{
+    height:100%;
+width:128.34px;
+float:left;
+color:white;
+margin-left:1px;
+
+}
+
+.K1{
+height:100%;
+width:69.8px;
+float:left;
+color:white;
+margin-left:1px;
+
+}
+.L1{
+height:100%;
+width:81px;
+float:left;
+color:white;
+margin-left:1px;
+
+}
+.M1{
+height:100%;
+width:41.38px;
+float:left;
+color:white;
+margin-left:1px;
+
+}
+.row1{
+margin-top:1.3%;
+    width: 1243px;
+    height:260px;
+    font-size: 0px;
+    margin-left:1%;
+    margin-right:1%;
+    
+}
+.d {
+ width:100%;
+  height:100%
+  margin-top:50%;
+}
+
+
+.row2{
+margin-left:1%;
+margin-top:1.3%;
+    height: 337px;
+    font-size: 0px;
+     width: 98%;
+}
+
+.col1{
+margin-right:1.5%;
+height:336px;
+width:298px;
+float:left;
+}
+
+.col2{
+margin-right:1.5%;
+height:336px;
+width:298px;
+float:left;
+}
+.col3{
+margin-right:1.5%;
+height:336;
+width:298.5px;
+float:left;
+}
+.col4{
+height:336;
+width:298.5px;
+float:left;
+}
+.d1 {
+width:100%;
+height:100%
+}
+.row3{
+margin-left:1%;
+margin-top:1.3%;
+    height: 337px;
+    font-size: 0px;
+    width: 98%;
+}
+
+.row4{
+margin-left:1%;
+margin-top:1.3%;
+    height: 337px;
+    font-size: 0px;
+     width: 98%;
+}
+.row12{
+margin-left:1%;
+margin-top:1.3%;
+    height: 337px;
+    font-size: 0px;
+    width: 98%;
+}
+.row11{
+margin-left:1%;
+margin-top:1.3%;
+    height: 239.47px;
+    font-size: 0px;
+    width: 1254px
+}
+.d2{
+height:239.47px;
+    width: 1252px;
+}
+
+
+.B{
+margin-top:5%;
+margin-right:1%;
+display: block;
+text-align: center;
+    color: white;
+    padding: 15px 0;
+    line-height: 19px;
+    font-size: 13px;
+    background-color:#232F3E;
+    width:100%;
+}
+
+.row9{
+height:400px;
+width:1279px;
+background-color:#0F1111;
+color:white;
+font-size:15px;
+}
+
+.col19{
+height:318px;
+width:1000px;
+margin-left:150px;
+
+}
+
+.col20{
+height:318px;
+width:136px;
+color:white;
+float:left;
+}
+
+.col21{
+height:318px;
+width:100px;
+float:left;
+}
+
+.col22{
+height:318px;
+width:184px;
+float:left;
+}
+
+.col23{
+height:318px;
+width:100px;
+float:left;
+}
+
+.col24{
+height:318px;
+width:222px;
+float:left;
+}
+
+.col25{
+height:318px;
+width:100px;
+float:left;
+}
+
+.col26{
+height:318px;
+width:157px;
+float:right;
+margin:-318px 0px 0px 4px;
+}
+
+
